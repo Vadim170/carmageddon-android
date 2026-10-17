@@ -1,0 +1,7 @@
+[submodule "dethrace"]
+	path = dethrace
+	url = https://github.com/Vadim170/dethrace.git
+	branch = android
+[submodule "SDL2"]
+	path = SDL2
+	url = https://github.com/libsdl-org/SDL.git

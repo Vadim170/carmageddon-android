@@ -1,0 +1,17 @@
+# Game files: never commit them, they come from your own copy
+/game-data/
+*.exe
+*.GOG
+*.PIX
+*.apk
+
+# Build output
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/local.properties
+
+.DS_Store
+.idea/
+*.iml
